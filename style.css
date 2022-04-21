@@ -23,6 +23,12 @@ figure figcaption {
 	color: gray;
 	text-decoration: none;
 }
+:active {
+	color: light-gray;
+	:target {
+		background-color: f6f6f6;
+	}
+}
 @media only screen and (min-width: 800px) {
 	#container {
 		display: flex;
