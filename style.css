@@ -33,20 +33,19 @@ figure figcaption {
 }
 @media only screen and (max-width: 800px) {
 	#container {
-		display: grid;
+		display: initial;
 		justify-content: initial;
+		align-items: initial;
 	}
 	#toc {
-		display: inline-block;
-		width: 100%;
-		position: static;
-		top: auto;
-		vertical-align: top;
+		width: initial;
+		position: initial;
+		top: initial;
 	}
 	#content {
-		width: auto;
+		width: initial;
 	}
 	#content div {
-		height: auto;
+		height: initial;
 	}
 }
