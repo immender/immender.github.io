@@ -31,3 +31,8 @@ figure figcaption {
 	position: sticky;
 	top: 0;
 }
+@media only screen and (max-width: 768px) {
+  [id*="#toc","#content"] {
+    width: 100%;
+  }
+}
