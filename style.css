@@ -36,6 +36,7 @@ figure figcaption {
 		display: block;
 		justify-content: initial;
 		align-items: initial;
+		float: left;
 	}
 	#toc {
 		width: auto;
