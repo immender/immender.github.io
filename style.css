@@ -17,6 +17,9 @@ figure figcaption {
 }
 #toc {
 	font-size: 1.3em;
+	text-decoration: none;
+	color: dark-gray;
+	background-color: #131313;
 }
 @media only screen and (min-width: 800px) {
 	#container {
