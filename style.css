@@ -17,9 +17,10 @@ figure figcaption {
 }
 #toc {
 	font-size: 1.3em;
-	text-decoration: none;
-	color: dark-gray;
-	background-color: 919191
+	color: gray;
+}
+#toc a {
+		text-decoration: none, none, none, none;
 }
 @media only screen and (min-width: 800px) {
 	#container {
