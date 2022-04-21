@@ -1,5 +1,13 @@
+html {
+	scroll-behavior: smooth;
+}
+main > nav {
+	position: sticky;
+	top: 2rem;
+	align-self: start;
+}
 body {
-	background-color: #f8f9fa;
+	background-color: white;
 	color: #202122;
 	font-family: sans-serif;
 }
@@ -12,48 +20,30 @@ figure figcaption {
 	font-size: 1.2em;
 	vertical-align: middle;
 }
-.toc {
-	margin: 15px;
-	padding: 5px;
-	border: 1px solid grey;
-	display: inline-block;
-	border-radius: 5px;
+.section-nav {
+	margin-top: 2rem;
+	padding-left: 0;
+	border-left: 1px solid #efefef;
 }
-.toc h4 {
-	margin: 0px;
-	margin-bottom: 5px;
-	font-size: 1.2rem;
-	font-weight: bold;
-	color: #5faeea;
+.section-nav a {
+	display: block;
+	padding: .125rem 0;
 }
-.toc ul {
-	margin: 0px;
+* {
+	box-sizing: border-box;
+}
+.section-nav ul, ol {
 	list-style: none;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 }
-.toc ul li a {
-	color: #4c74b9;
-	text-decoration: none; /* Removes the underline from the link tags */
+.section-nav li {
+	margin-left: 1rem;
 }
-.toc ul li {
-	padding: 2px; /* Adds a little space around each <li> tag */
-}
-#toc-button i {
-	border-radius: 50%;
-	padding: 15px;
-	margin: 20px;
-	float: right;
-	color: #f8f9fa;
-	background-color: red;
-	position: fixed;
-	bottom: 10px;
-	right: 10px;
-}
-
-.custom-toc {
-	position: fixed;
-	border: 1px solid #202122;
-	bottom: 10px;
-	background-color: #f8f9fa;
-	right: 200px;
+main {
+	display: grid;
+	grid-template-columns: 1fr 15em;
+	max-width: 100em;
+	width: 90%;
+	margin: 0 auto;
 }
