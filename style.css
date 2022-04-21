@@ -34,7 +34,7 @@ figure figcaption {
 @media only screen and (max-width: 768px) {
 	#toc {
 		width: 100%;
-		position: absolute;
+		position: static;
 		top: auto;
 	}
 	#content {
