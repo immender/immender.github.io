@@ -32,6 +32,10 @@ figure figcaption {
 	top: 0;
 }
 @media only screen and (max-width: 800px) {
+	#container {
+		display: inline;
+		justify-content: initial;
+		align-items: initial;
 	#toc {
 		width: 100vw;
 		position: static;
