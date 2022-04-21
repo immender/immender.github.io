@@ -20,7 +20,8 @@ figure figcaption {
 	color: gray;
 }
 #toc a {
-		text-decoration: none, none, none, none;
+	color: gray;
+	text-decoration: none;
 }
 @media only screen and (min-width: 800px) {
 	#container {
