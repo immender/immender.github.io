@@ -23,6 +23,8 @@ figure figcaption {
 	}
 	#content {
 		width: 70vw;
+		flex: 0 0 70%;
+		order: 1;
 	}
 	#content div {
 		height: 100vh;
@@ -36,7 +38,7 @@ figure figcaption {
 @media only screen and (max-width: 800px) {
 	#toc {
 		width: 100%;
-		position: static;
-		top: 0;
+		flex: 0 0 100%;
+		order: 0;
 	}
 }
