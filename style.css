@@ -41,7 +41,7 @@ figure figcaption {
 		width: auto;
 		position: static;
 		top: auto;
-		float: left;
+		vertical-align: top;
 	}
 	#content {
 		width: auto;
