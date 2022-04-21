@@ -1,11 +1,6 @@
 html {
 	scroll-behavior: smooth;
 }
-main > nav {
-	position: sticky;
-	top: 2rem;
-	align-self: start;
-}
 body {
 	background-color: white;
 	color: #202122;
@@ -19,33 +14,6 @@ figure figcaption {
 	text-align: center;
 	font-size: 1.2em;
 	vertical-align: middle;
-}
-.section-nav {
-	margin-top: 2rem;
-	padding-left: 0;
-	border-left: 1px solid #efefef;
-}
-.section-nav a {
-	display: block;
-	padding: .125rem 0;
-}
-* {
-	box-sizing: border-box;
-}
-.section-nav ul, ol {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-.section-nav li {
-	margin-left: 1rem;
-}
-main {
-	display: grid;
-	grid-template-columns: 1fr 15em;
-	max-width: 100em;
-	width: 90%;
-	margin: 0 auto;
 }
 #container {
 	display: flex;
