@@ -37,5 +37,6 @@ figure figcaption {
 	#toc {
 		width: 100%;
 		position: static;
+		top: 0;
 	}
 }
