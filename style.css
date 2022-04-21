@@ -37,11 +37,11 @@ figure figcaption {
 		justify-content: initial;
 		align-items: initial;
 	#toc {
-		width: 100vw;
+		width: auto;
 		position: static;
 		top: auto;
 	}
 	#content {
-		width: 100vw;
+		width: auto;
 	}
 }
