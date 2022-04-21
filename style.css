@@ -33,7 +33,7 @@ figure figcaption {
 }
 @media only screen and (max-width: 800px) {
 	#container {
-		display: block;
+		display: run-in;
 		justify-content: initial;
 		align-items: initial;
 	#toc {
