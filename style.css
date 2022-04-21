@@ -32,8 +32,12 @@ figure figcaption {
 	top: 0;
 }
 @media only screen and (max-width: 768px) {
-	[id*="toc","content"] {
+	#toc {
+		width: 100%;
 		position: absolute;
+		top: auto;
+	}
+	#content {
 		width: 100%;
 	}
 }
