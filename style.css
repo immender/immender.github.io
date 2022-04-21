@@ -23,8 +23,6 @@ figure figcaption {
 	}
 	#content {
 		width: 70vw;
-		flex: 0 0 70%;
-		order: 1;
 	}
 	#content div {
 		height: 100vh;
