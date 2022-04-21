@@ -15,37 +15,21 @@ figure figcaption {
 	font-size: 1.2em;
 	vertical-align: middle;
 }
-#container {
-	display: flex;
-	justify-content: space-around;
-	align-items: flex-start;
-}
-#content {
-	width: 70vw;
-}
-#content div {
-	height: 100vh;
-}
-#toc {
-	width: 30vw;
-	position: sticky;
-	top: 0;
-}
-@media only screen and (max-width: 800px) {
+@media only screen and (min-width: 800px) {
 	#container {
-		display: initial;
-		justify-content: initial;
-		align-items: initial;
-	}
-	#toc {
-		width: initial;
-		position: initial;
-		top: initial;
+		display: flex;
+		justify-content: space-around;
+		align-items: flex-start;
 	}
 	#content {
-		width: initial;
+		width: 70vw;
 	}
 	#content div {
-		height: initial;
+		height: 100vh;
+	}
+	#toc {
+		width: 30vw;
+		position: sticky;
+		top: 0;
 	}
 }
