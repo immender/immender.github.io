@@ -31,13 +31,13 @@ figure figcaption {
 	position: sticky;
 	top: 0;
 }
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 800px) {
 	#toc {
-		width: 100%;
+		width: 100vw;
 		position: static;
 		top: auto;
 	}
 	#content {
-		width: 100%;
+		width: 100vw;
 	}
 }
