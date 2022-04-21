@@ -47,3 +47,17 @@ main {
 	width: 90%;
 	margin: 0 auto;
 }
+#container {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+#content {
+	width: 70vw;
+}
+#content div {
+	height: 100vh;
+}
+#toc {
+	width: 30vw;
+}
