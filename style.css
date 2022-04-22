@@ -26,10 +26,13 @@ figure figcaption {
 #toc a:active {
 	color: orange;
 }
-#toc a:hover {
-	:target {
-		background-color: orange;
-	}
+li:target {
+  animation: hilight 2.5s;
+}
+@keyframes hilight {
+  0% {background: transparent;}
+  10% {background: yellow;}
+  100% {background: transparent;}
 }
 @media only screen and (min-width: 800px) {
 	#container {
