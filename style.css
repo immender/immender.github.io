@@ -41,7 +41,6 @@ figure figcaption {
 		align-items: flex-start;
 	}
 	#content {
-		width: 70vw;
 		float: left;
 	}
 	#content div {
