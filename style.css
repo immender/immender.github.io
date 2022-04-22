@@ -50,7 +50,7 @@ figure figcaption {
 	}
 	#toc {
 		display: inline-block;
-		width: 30vw;
+		width: 400px;
 		position: sticky;
 		top: 0;
 		right: 10px;
