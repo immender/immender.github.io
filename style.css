@@ -55,7 +55,7 @@ figure figcaption {
 		top: 0;
 		right: 10px;
 		vertical-align: middle;
-		text-align: right;
+		float: right;
 		z-index: 9999;
 
 	}
