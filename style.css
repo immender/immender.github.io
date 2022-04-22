@@ -23,7 +23,7 @@ figure figcaption {
 	color: gray;
 	text-decoration: none;
 }
-:active {
+#toc a:active {
 	color: light-gray;
 	:target {
 		background-color: f6f6f6;
