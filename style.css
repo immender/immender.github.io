@@ -27,7 +27,7 @@ figure figcaption {
 #toc li {
 	list-style-type: none;
 }
-#toc li li{
+#toc ul ul{
 	font-size: 0.8em;
 }
 #toc a:active {
