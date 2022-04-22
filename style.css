@@ -27,6 +27,9 @@ figure figcaption {
 #toc li {
 	list-style-type: none;
 }
+#toc li li{
+	font-size: 1.2em;
+}
 #toc a:active {
 	color: orange;
 }
@@ -55,8 +58,5 @@ figure figcaption {
 		top: 0;
 		right: 10px;
 		text-align: right;
-	}
-	#toc li li{
-		font-size: 1.2em;
 	}
 }
