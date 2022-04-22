@@ -38,27 +38,15 @@ figure figcaption {
 	#container {
 		display: flex;
 		justify-content: space-around;
+		flex-direction: row-reverse;
 		align-items: flex-start;
-	}
-	#content {
-		float: left;
 	}
 	#content div {
 		height: 100vh;
-		clear:both;
 	}
-	#toc_container {
+	#toc {
 		position: sticky;
-		display: inline-block;
-		float: right;
-		width: 400px;
-		top: 0;
-		right: 10px;
-	}
-	#toc_content {
-		position: sticky;
-		text-align: right;
-		float: right;
+		width: 70vw;
 		top: 0;
 		right: 10px;
 	}
