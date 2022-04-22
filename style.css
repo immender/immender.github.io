@@ -27,7 +27,7 @@ figure figcaption {
 	color: orange;
 }
 #toc a:hover {
-	target: {
+	:target {
 		background-color: orange;
 	}
 }
