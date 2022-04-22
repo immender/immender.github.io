@@ -15,15 +15,15 @@ figure figcaption {
 	font-size: 1.2em;
 	vertical-align: middle;
 }
-#toc_contents {
+#toc_content {
 	font-size: 1.3em;
 	color: gray;
 }
-#toc_contents a {
+#toc_content a {
 	color: gray;
 	text-decoration: none;
 }
-#toc_contents a:active {
+#toc_content a:active {
 	color: orange;
 }
 :target {
