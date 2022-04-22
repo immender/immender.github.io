@@ -42,6 +42,7 @@ figure figcaption {
 	}
 	#content {
 		width: 70vw;
+		float: left;
 	}
 	#content div {
 		height: 100vh;
