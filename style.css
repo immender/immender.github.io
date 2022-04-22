@@ -55,5 +55,6 @@ figure figcaption {
 		top: 0;
 		vertical-align: middle;
 		float: right;
+		text-align: right;
 	}
 }
