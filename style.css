@@ -24,9 +24,9 @@ figure figcaption {
 	text-decoration: none;
 }
 #toc a:active {
-	color: light-gray;
+	color: orange;
 	:target {
-		background-color: f6f6f6;
+		background-color: orange;
 	}
 }
 @media only screen and (min-width: 800px) {
