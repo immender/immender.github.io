@@ -50,5 +50,6 @@ li:target {
 		width: 30vw;
 		position: sticky;
 		top: 0;
+		right: 0;
 	}
 }
