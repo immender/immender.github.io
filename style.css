@@ -46,11 +46,14 @@ figure figcaption {
 	}
 	#content div {
 		height: 100vh;
+		clear:both;
 	}
 	#toc {
+		display: inline-block;
 		width: 30vw;
 		position: sticky;
 		top: 0;
+		vertical-align: middle;
 		float: right;
 	}
 }
