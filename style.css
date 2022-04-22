@@ -48,6 +48,7 @@ figure figcaption {
 		clear:both;
 	}
 	#toc_container {
+		position: sticky;
 		display: inline-block;
 		float: right;
 		width: 400px;
@@ -57,5 +58,8 @@ figure figcaption {
 	#toc_content {
 		position: sticky;
 		text-align: right;
+		float: right;
+		top: 0;
+		right: 10px;
 	}
 }
