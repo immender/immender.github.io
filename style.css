@@ -57,7 +57,7 @@ figure figcaption {
 	}
 	#toc {
 		position: sticky;
-		width: 400px;
+		width: 30%;
 		height: 100vh;
 		top: 0;
 		right: 10px;
