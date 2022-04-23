@@ -37,12 +37,12 @@ figure figcaption {
 	font-size: 0.8em;
 }
 :target {
-  animation: hilight 2.5s;
+	animation: hilight 2.5s;
 }
 @keyframes hilight {
-  0% {background: transparent;}
-  10% {background: yellow;}
-  100% {background: transparent;}
+	0% {background: transparent;}
+	10% {background: yellow;}
+	100% {background: transparent;}
 }
 @media only screen and (min-width: 800px) {
 	#container {
@@ -53,7 +53,7 @@ figure figcaption {
 	}
 	#content div {
 		height: 100vh;
-		width: 60%;
+		width: 100%;
 	}
 	#toc {
 		position: sticky;
