@@ -37,6 +37,19 @@ h6 {
 h2, h3, h4 {
 	margin: 20px 0 5px 0;
 }
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p, h1 + table.right + p, h2 + table.right + p, h3 + table.right + p, h4 + table.right + p, h5 + table.right + p, h6 + table.right + p {
+	margin-top: 0;
+}
+a:link, a:visited {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration-line: underline;
+}
+a:active {
+	color: orange;
+}
 figure {
 	display: inline-block;
 	vertical-align: middle;
@@ -57,9 +70,6 @@ figure figcaption {
 }
 #toc a:hover {
 	color: black;
-}
-#toc a:active {
-	color: orange;
 }
 #toc li {
 	list-style-type: none;
