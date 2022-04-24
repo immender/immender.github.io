@@ -1,1 +1,49 @@
-<svg viewBox="-4.5 -4.5 201 201" height="201" width="201" font-family="sans-serif" font-size="10px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g shape-rendering="crispEdges"><path d="M -0.5 -0.5 L 192.5 -0.5 192.5 192.5 -0.5 192.5 z" stroke="none" fill="white"></path></g><g shape-rendering="crispEdges"></g><g shape-rendering="crispEdges"><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 32 0 L 32 192" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 64 0 L 64 192" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 96 0 L 96 192" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 128 0 L 128 192" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 160 0 L 160 192" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 32 L 192 32" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 64 L 192 64" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 96 L 192 96" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 128 L 192 128" stroke="black" fill="none"></path><path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 160 L 192 160" stroke="black" fill="none"></path></g><g shape-rendering="crispEdges"><path d="M -1.5 30.5 L 33.5 30.5 33.5 33.5 -1.5 33.5 z" stroke="none" fill="black"></path><path d="M 126.5 62.5 L 161.5 62.5 161.5 65.5 126.5 65.5 z" stroke="none" fill="black"></path><path d="M 94.5 126.5 L 97.5 126.5 97.5 161.5 94.5 161.5 z" stroke="none" fill="black"></path><path d="M 94.5 158.5 L 97.5 158.5 97.5 193.5 94.5 193.5 z" stroke="none" fill="black"></path></g><g shape-rendering="crispEdges"></g><g shape-rendering="crispEdges"><path d="M 16 16 L 24 24 L 8 24 z" stroke="none" fill="black"></path><path stroke-width="1.5" d="M 16 16 L 32 32 L 0 32 z" stroke="black" fill="none"></path><path d="M 144 80 L 152 72 L 136 72 z" stroke="none" fill="black"></path><path stroke-width="1.5" d="M 144 80 L 160 64 L 128 64 z" stroke="black" fill="none"></path><path d="M 80 144 L 88 136 L 88 152 z" stroke="none" fill="black"></path><path stroke-width="1.5" d="M 80 144 L 96 128 L 96 160 z" stroke="black" fill="none"></path><path d="M 112 176 L 104 168 L 104 184 z" stroke="none" fill="black"></path><path stroke-width="1.5" d="M 112 176 L 96 160 L 96 192 z" stroke="black" fill="none"></path></g><g shape-rendering="crispEdges"><text font-size="25" text-anchor="middle" y="24.5" x="144" fill="black">2</text><text font-size="25" text-anchor="middle" y="24.5" x="176" fill="black">3</text><text font-size="25" text-anchor="middle" y="56.5" x="16" fill="black">4</text><text font-size="25" text-anchor="middle" y="56.5" x="144" fill="black">1</text><text font-size="25" text-anchor="middle" y="56.5" x="176" fill="black">3</text><text font-size="25" text-anchor="middle" y="120.5" x="16" fill="black">4</text><text font-size="25" text-anchor="middle" y="152.5" x="112" fill="black">2</text><text font-size="25" text-anchor="middle" y="184.5" x="80" fill="black">3</text></g><g shape-rendering="crispEdges"></g><g shape-rendering="crispEdges"><path d="M -1.5 -1.5 L 1.5 -1.5 1.5 193.5 -1.5 193.5 z" stroke="none" fill="black"></path><path d="M 190.5 -1.5 L 193.5 -1.5 193.5 193.5 190.5 193.5 z" stroke="none" fill="black"></path><path d="M -1.5 -1.5 L 193.5 -1.5 193.5 1.5 -1.5 1.5 z" stroke="none" fill="black"></path><path d="M -1.5 190.5 L 193.5 190.5 193.5 193.5 -1.5 193.5 z" stroke="none" fill="black"></path></g><g shape-rendering="crispEdges"></g></svg>
+<svg viewBox="-4.5 -4.5 201 201" height="201" width="201" font-family="sans-serif" font-size="10px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+	<g shape-rendering="crispEdges">
+		<path d="M -0.5 -0.5 L 192.5 -0.5 192.5 192.5 -0.5 192.5 z" stroke="none" fill="white"/>
+	</g>
+	<g shape-rendering="crispEdges">
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 32 0 L 32 192" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 64 0 L 64 192" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 96 0 L 96 192" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 128 0 L 128 192" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 160 0 L 160 192" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 32 L 192 32" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 64 L 192 64" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 96 L 192 96" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 128 L 192 128" stroke="black" fill="none"/>
+		<path stroke-dasharray="2.5 3 5 3 5 3 5 3 2.5 0" stroke-width="1" d="M 0 160 L 192 160" stroke="black" fill="none"/>
+	</g>
+	<g shape-rendering="crispEdges">
+		<path d="M -1.5 30.5 L 33.5 30.5 33.5 33.5 -1.5 33.5 z" stroke="none" fill="black"/>
+		<path d="M 126.5 62.5 L 161.5 62.5 161.5 65.5 126.5 65.5 z" stroke="none" fill="black"/>
+		<path d="M 94.5 126.5 L 97.5 126.5 97.5 161.5 94.5 161.5 z" stroke="none" fill="black"/>
+		<path d="M 94.5 158.5 L 97.5 158.5 97.5 193.5 94.5 193.5 z" stroke="none" fill="black"/>
+	</g>
+	<g shape-rendering="crispEdges">
+		<path d="M 16 16 L 24 24 L 8 24 z" stroke="none" fill="black"/>
+		<path stroke-width="1.5" d="M 16 16 L 32 32 L 0 32 z" stroke="black" fill="none"/>
+		<path d="M 144 80 L 152 72 L 136 72 z" stroke="none" fill="black"/>
+		<path stroke-width="1.5" d="M 144 80 L 160 64 L 128 64 z" stroke="black" fill="none"/>
+		<path d="M 80 144 L 88 136 L 88 152 z" stroke="none" fill="black"/>
+		<path stroke-width="1.5" d="M 80 144 L 96 128 L 96 160 z" stroke="black" fill="none"/>
+		<path d="M 112 176 L 104 168 L 104 184 z" stroke="none" fill="black"/>
+		<path stroke-width="1.5" d="M 112 176 L 96 160 L 96 192 z" stroke="black" fill="none"/>
+	</g>
+	<g shape-rendering="crispEdges">
+		<text font-size="25" text-anchor="middle" y="24.5" x="144" fill="black">2</text>
+		<text font-size="25" text-anchor="middle" y="24.5" x="176" fill="black">3</text>
+		<text font-size="25" text-anchor="middle" y="56.5" x="16" fill="black">4</text>
+		<text font-size="25" text-anchor="middle" y="56.5" x="144" fill="black">1</text>
+		<text font-size="25" text-anchor="middle" y="56.5" x="176" fill="black">3</text>
+		<text font-size="25" text-anchor="middle" y="120.5" x="16" fill="black">4</text>
+		<text font-size="25" text-anchor="middle" y="152.5" x="112" fill="black">2</text>
+		<text font-size="25" text-anchor="middle" y="184.5" x="80" fill="black">3</text>
+	</g>
+	<g shape-rendering="crispEdges">
+		<path d="M -1.5 -1.5 L 1.5 -1.5 1.5 193.5 -1.5 193.5 z" stroke="none" fill="black"/>
+		<path d="M 190.5 -1.5 L 193.5 -1.5 193.5 193.5 190.5 193.5 z" stroke="none" fill="black"/>
+		<path d="M -1.5 -1.5 L 193.5 -1.5 193.5 1.5 -1.5 1.5 z" stroke="none" fill="black"/>
+		<path d="M -1.5 190.5 L 193.5 190.5 193.5 193.5 -1.5 193.5 z" stroke="none" fill="black"/>
+	</g>
+</svg>	
