@@ -5,6 +5,37 @@ body {
 	background-color: white;
 	color: #202122;
 	font-family: sans-serif;
+	padding: 0 10px;
+	font-size: .9em;
+	display: block;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 2em;
+	margin: 0 0 10px 0;
+}
+h2 {
+	font-size: 1.75em;
+	font-style: italic;
+}
+h3 {
+	font-size: 1.5em;
+}
+h4 {
+	font-size: 1.25em;
+	font-style: italic;
+}
+h5, h6 {
+	font-size: 1em;
+	margin: 10px 0 0 0;
+}
+h6 {
+	font-weight: normal;
+	font-size: italic;
+}
+h2, h3, h4 {
+	margin: 20px 0 5px 0;
 }
 figure {
 	display: inline-block;
