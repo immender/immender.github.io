@@ -41,7 +41,7 @@ h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p, h1 + table.right + p, h2 + table
 	margin-top: 0;
 }
 a:link, a:visited {
-	color: blue;
+	color: #1a0dab;
 	text-decoration: none;
 }
 a:hover {
