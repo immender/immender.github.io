@@ -1,33 +1,51 @@
 html {
 	scroll-behavior: smooth;
+	height:100%;
 }
 
 body {
 	background-color: white;
 	color: #202122;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
 	font-family: sans-serif;
-	padding: 0 10px;
-	font-size: .9em;
-	display: block;
-	max-width: 1024px;
 	margin: 0 auto;
+	font-size: .9em;
+	max-width: 1024px;
+	height:100%;
 }
 
-nav {
+main {
+	margin: 0 10px;
+}
+
+@media only screen and (max-width: 1024px) {
+	body {
+		border-left: none;
+		border-right: none;
+	}
+}
+
+#titlebox {
+	margin: 10px;
+}
+
+#crumbs {
 	border-bottom: 1px solid black;
-	margin-bottom: 10px;
+	padding: 15px;
 }
 
-.crumbs ol {
+#crumbs ol {
 	list-style-type: none;
 	padding-left:0;
+	margin:0;
 }
 	
-.crumb {
+li.crumb {
 	display: inline-block;
 }
 
-.crumb a::after {
+li.crumb a::after {
 	display: inline-block;
 	color: #000;
 	content: '>';
@@ -36,7 +54,7 @@ nav {
 	padding: 0 3px;
 }
 
-.langnav {
+#langnav {
 	display: block;
 	float:right;
 }
