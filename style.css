@@ -358,10 +358,6 @@ a:active {
 	color: orange;
 }
 
-#toc li {
-	list-style-type: none;
-}
-
 :target {
 	animation: hilight 2.5s;
 }
