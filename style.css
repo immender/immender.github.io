@@ -30,7 +30,7 @@ li ol > li:before {
 	content: counters(item, ".") " ";
 }
 
-media screen {
+@media screen {
 	html,
 	body {
 		height:100%
