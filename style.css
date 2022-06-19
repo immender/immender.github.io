@@ -323,13 +323,21 @@ nav {
 	margin-bottom: 10px;
 }
 
+.crumbs {
+	font-family: sans-serif;
+}
+
 .crumbs ul {
 	list-style-type: none;
 	padding-left:0;
 }
 
-.crumbs ul:not(a) {
+.crumb :not(a) {
 	font-weight: bold;
+}
+
+.crumb > a {
+	font-weight: normal;
 }
 	
 .crumb {
