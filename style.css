@@ -332,10 +332,10 @@ nav {
 	padding-left:0;
 }
 
-.crumb :not(a) {
+.crumb:not(a) {
 	font-weight: bold;
 }
-	
+
 .crumb {
 	display: inline-block;
 }
