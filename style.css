@@ -327,6 +327,10 @@ nav {
 	list-style-type: none;
 	padding-left:0;
 }
+
+.crumbs ul:not(a) {
+	font-weight: bold;
+}
 	
 .crumb {
 	display: inline-block;
