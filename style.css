@@ -335,10 +335,6 @@ nav {
 .crumb :not(a) {
 	font-weight: bold;
 }
-
-.crumb > a {
-	font-weight: normal;
-}
 	
 .crumb {
 	display: inline-block;
