@@ -1,0 +1,84 @@
+html {
+  font-family: serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: sans-serif;
+}
+
+body {
+  text-align: justify;
+  margin: 0 auto;
+  padding: 0 2.5em 2em 2.5em;
+  max-width: 80em;
+  background: #FFF;
+  color: #000;
+}
+
+.crumbs {
+  font-family: sans-serif;
+  border-bottom: 1px solid #000;
+  margin-bottom: 10px;
+}
+
+.crumbs ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.crumbs li:last-child {
+  font-weight: bold;
+}
+
+.crumb {
+  display: inline-block;
+}
+
+.crumb a::after {
+  display: inline-block;
+  color: #000;
+  content: '>';
+  font-size: 80%;
+  font-weight: bold;
+  padding: 0 3px;
+}
+
+.langnav {
+  display: block;
+  float: right;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration-line: underline;
+}
+
+a:active {
+  color: orange;
+}
+
+:target {
+  animation: hilight 2.5s;
+}
+
+@keyframes hilight {
+  0% {
+    background: transparent;
+  }
+
+  10% {
+    background: yellow;
+  }
+
+  100% {
+    background: transparent;
+  }
+}
