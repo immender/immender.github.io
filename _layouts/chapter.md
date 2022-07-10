@@ -4,7 +4,7 @@
 <meta property="og:site_name" content="im mender? :/">
 <meta property="og:title" content="{% if page.shorttitle %}{{ page.shorttitle }}, {% else %}{{ page.longtitle }}, {% endif %}{{ page.volume }}, c. {{ page.chapter }}">
 <meta property="og:type" content="article">
-<meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}">
+<meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 {% if page.assenteddate %}<meta property="article:published_time" content="{{ page.assenteddate }}">{% endif %}
 <link rel="stylesheet" href="/assets/css/law.css">
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
