@@ -1,7 +1,5 @@
 body{margin-right:auto;margin-left:auto;padding-left:1em;padding-right:1em;color:#333;font-family:sans-serif;}
-@media(min-width:768px){body{width:750px;}}
-@media(min-width:992px){body{width:970px;}}
-@media(min-width:1200px){body{width:1170px;}}
+body{max-width:70ch;}
 ul.formula-provision-list{margin-left:1.5em;margin-top:0.5em;list-style:none;padding:0;}
 ul.provision-list,ul.historical-note,ul.definition,ul.bilingual-group{margin:0!important;padding:0;list-style:none;}
 .provision-heading{font-size:100%;font-weight:normal;text-align:left;}
