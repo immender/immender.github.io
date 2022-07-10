@@ -1,0 +1,1 @@
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:

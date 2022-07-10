@@ -3,5 +3,10 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"[yaml]": {
+			"editor.detectIndentation": false
+		}
+	}
 }

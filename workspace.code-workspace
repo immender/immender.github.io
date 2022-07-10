@@ -1,7 +1,15 @@
 {
 	"folders": [
-		{
-			"path": "."
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\jekyll-test\\TESTSITE"
+    }
+  ],
+	"settings": {
+		"[yaml]": {
+			"editor.detectIndentation": false
 		}
-	]
+	}
 }

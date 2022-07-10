@@ -4,9 +4,6 @@ title: Home
 permalink: /en/
 published: true
 ---
-
-Home
-====
 This website is currently undergoing renovations.
 
 Resources

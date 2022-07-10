@@ -1,4 +1,35 @@
+---
+title: im mender? :/
+description: This website is under construction.
+baseurl: ""
+url: "https://immender.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 collections:
-  31vc1:
+  sections:
     output: true
-    permalink: /en/statutes/annual/1867-68/c-1/:title:output_ext
+  volumes:
+    output: true
+  chapters:
+    output: true
+sass:
+    sass_dir: _sass
+defaults:
+  - scope:
+      path: ""
+      type: "sections"
+    values:
+      layout: "section"
+  - scope:
+      path: ""
+      type: "volumes"
+    values:
+      layout: "volume"
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+---

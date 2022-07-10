@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Statutes of Canada
+title: The Statutes of Canada
 permalink: /en/statutes/
 published: true
 ---
 *[R.S.C.]: Revised Statutes of Canada
 *[S.C.]: Statutes of Canada
-
-
-# The Revised and Annual Statutes of Canada #
 
 ## Annual Statutes of Canada ##
 The <cite>Acts of the Parliament of Canada</cite>, short title <cite>Statutes of Canada</cite> (abbreviated S.C.) are a periodical publication compiling the acts of the Parliament of Canada as they were enacted in each calendar year. Prior to 1985, each session volume was published at the end of its respective session of parliament.
@@ -16,10 +13,10 @@ The <cite>Acts of the Parliament of Canada</cite>, short title <cite>Statutes of
 Before being compiled, statutes are published at shorter intervals in the <cite>Canada Gazette</cite>.
 
 Each chapter of an annual or sessional volume corresponds to an enactment and represents the act as it was originally passed.
-* [Index to the Annual Statutes](annual)
-	* [Index to the <cite>Statutes of Canada</cite> (1867--1872)](annual/s-c.html)
-	* [Index to the <cite>Acts of the Parliament of the Dominion of Canada</cite> (1873--1951)](annual/a-p-d-c.html)
-	* [Index to the <cite>Acts of the Parliament of Canada</cite> (1951--)](annual/a-p-c.html)
+* [Index to the Annual Statutes](sc)
+	* [Index to the <cite>Statutes of Canada</cite> (1867--1872)](sc/s-c.html)
+	* [Index to the <cite>Acts of the Parliament of the Dominion of Canada</cite> (1873--1951)](sc/a-p-d-c.html)
+	* [Index to the <cite>Acts of the Parliament of Canada</cite> (1951--)](sc/a-p-c.html)
 
 ## Revised Statutes of Canada ##
 The <cite>Revised Statutes of Canada</cite> (abbreviated R.S.C) are a publication containing consolidations of acts made by the Parliament of Canada.
