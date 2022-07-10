@@ -1,5 +1,5 @@
 <header>
-{% if page.citeoldlong %}<h2 style="text-transform:uppercase;">{{ page.citeoldlong %}}</h2>{% endif %}
+{% if page.citeoldlong %}<h2 class="cite-old-long">{{ page.citeoldlong %}}</h2>{% endif %}
   <h2 class="title-of-act" id="top">{% if page.shorttitle %}{{page.shorttitle}}{% else %}{{page.longtitle}}{% endif %}</h2>
   <p class="chapter-number">{{ page.volume }}, c. {{ page.chapter }}</p>
 </header>
