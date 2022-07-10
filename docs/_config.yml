@@ -1,0 +1,18 @@
+locale: en-CA
+title: "im mender? :/"
+description: "im mender? :/"
+url: "https://immender.github.io"
+permalink: pretty
+paginate: 10
+paginate_path: /page:num/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+author:
+  name: mender
+  twitter: im_mender_
