@@ -18,6 +18,11 @@
     </title>
   </head>
   <body>
-    {{ content }}
+    <header>
+        <a href="./">{% if page.shorttitle %}{{ page.shorttitle }}{% else %}{{ page.longtitle }}{% endif %}, {{ page.volume }}, c. {{ page.chapter }}</a>, s. {{ page.section }}
+    </header>
+    <main>
+      {{ content }}
+    </main>
   </body>
 </html>

@@ -21,6 +21,4 @@
   </ul>
 </nav>
 </header>
-<main>
 {{ content }}
-</main>
