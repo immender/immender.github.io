@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="/assets/css/law.css">
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 <title>{% if page.shorttitle %}{{ page.shorttitle }}, {% endif %}{{ page.volume }}, c. {{ page.chapter }} | Statute Archive - im mender? :/ </title>
+<header>
 <h1 class="head-title">{% if page.shorttitle %}{{ page.shorttitle }}{% else %}{{ page.longtitle }}{% endif %} ({{ page.volume }}, c. {{ page.chapter }})</h1>
 <h2 class="toc-heading">Section Permalinks</h2>
 <nav>
@@ -19,4 +20,7 @@
     {% endfor %}
   </ul>
 </nav>
+</header>
+<main>
 {{ content }}
+</main>
